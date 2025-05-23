@@ -85,15 +85,12 @@ numpy>=1.24.0
 
 This is an open-source project welcoming contributions from the community. Whether you're interested in improving AI models, enhancing the user interface, or adding new validation features, your input is valuable.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🔗 Links
 
 - **Live Demo**: [Coming Soon]
-- **Documentation**: [Wiki](https://github.com/yourusername/fieldverify-ai-toolkit/wiki)
-- **Issues**: [Report Issues](https://github.com/yourusername/fieldverify-ai-toolkit/issues)
+- **Documentation**: [Wiki](https://github.com/endrissuofe/fieldverify-ai-toolkit/wiki)
+- **Issues**: [Report Issues](https://github.com/endrissuofe/fieldverify-ai-toolkit/issues)
 
 ## 📊 Impact
 
